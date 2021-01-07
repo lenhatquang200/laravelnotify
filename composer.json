@@ -1,5 +1,5 @@
 {
-    "name": "helmesvs/laravel-notify",
+    "name": "qdev1000/laravel-notify",
     "description": "Elegant notifications to laravel with Toastr or PNotify",
     "keywords": ["PNotify", "notify", "toastr", "notification", "laravel", "php"],
     "homepage": "https://github.com/Helmesvs/laravel-notify",
